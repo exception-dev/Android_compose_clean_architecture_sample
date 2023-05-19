@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BrewdogPunk</string>
+
+    <string name="splash_00">Brewdog Beer</string>
+
+
+    <string name="beer_00">No\nImage</string>
+
+    <string name="beer_11">ABV</string>
+    <string name="beer_12">IBU</string>
+    <string name="beer_13">SRM</string>
+    <string name="beer_14">EBC</string>
+    <string name="beer_15">PH</string>
+
+
+    <string name="beer_21">Tagline</string>
+    <string name="beer_22">First Brewed</string>
+    <string name="beer_23">Description</string>
+    <string name="beer_24">Food Pairing</string>
+    <string name="beer_25">Brewers Tips</string>
+    <string name="beer_26">Contributed By</string>
+
+
+</resources>
